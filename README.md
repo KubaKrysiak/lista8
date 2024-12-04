@@ -4,3 +4,4 @@ zmiana
 zmiana 
 zmmianaaaa
 jakub sternik 2024
+pwi jest git
